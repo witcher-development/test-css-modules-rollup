@@ -1,0 +1,19 @@
+/*.text {*/
+/*	font-size: 25px;*/
+
+/*	&_sub {*/
+/*		composes: text;*/
+
+/*		color: yellow;*/
+/*	}*/
+/*}*/
+
+.text {
+	font-size: 25px;
+}
+
+.text_sub {
+	composes: text;
+
+	color: yellow;
+}

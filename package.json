@@ -1,0 +1,17 @@
+{
+  "name": "test-css-modules-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rollup -c -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modular-css/rollup": "^25.5.0",
+    "rollup": "^2.3.3",
+    "rollup-plugin-scss": "^2.1.0"
+  },
+  "devDependencies": {}
+}
